@@ -18,14 +18,12 @@ body > * {
     margin-right: auto;
 }
 
-
 hr {
     border: none;
     border-top: 1px solid #e2e8f0;
     margin: 28px auto;
     max-width: 860px;
 }
-
 
 header {
     text-align: center;
@@ -41,7 +39,6 @@ header img {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: pointer;
 }
-
 
 header img:hover {
     transform: scale(1.08);
@@ -59,7 +56,6 @@ header p {
     color: #64748b;
     font-size: 1.05rem;
 }
-
 
 nav ul {
     list-style: none;
@@ -84,14 +80,12 @@ nav a {
     display: inline-block;
 }
 
-
 nav a:hover {
     color: #ffffff;
     background-color: #2563eb;
     border-color: #2563eb;
     transform: translateY(-2px);
 }
-
 
 main section, aside {
     background: #ffffff;
@@ -103,7 +97,6 @@ main section, aside {
 
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
-
 
 main section:hover, aside:hover {
     transform: translateY(-4px);
